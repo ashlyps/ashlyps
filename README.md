@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>🎓 I’m a Second-Year B.Tech Computer and Business Systems student at Christ College of Engineering<br>💡 Active member of TinkerHub and MuLearn clubs, exploring tech and innovation<br>💻 Currently building skills in programming languages (coming from a bio background)<br>🤝 Serving as  the University Councillor of my college and Class Representative<br>🌱 Passionate about learning, collaborating, and growing in the field of technology and leadership
+Hi there 👋<br><br>🎓 I’m a Second-Year B.Tech Computer and Business Systems student at Christ College of Engineering<br>💡 Active member of TinkerHub and MuLearn, IEEE clubs , exploring tech and innovation<br>💻 Currently building skills in programming languages (coming from a bio background)<br> Passionate about learning, collaborating, and growing in the field of technology and leadership
 
 
 ## 🌐 Socials:
